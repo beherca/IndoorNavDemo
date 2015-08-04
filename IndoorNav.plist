@@ -20,7 +20,7 @@
 
                         <!-- required.  the URL of the file to download. -->
                         <key>url</key>
-                        <string>http://www.example.com/apps/foo.ipa</string>
+                        <string>https://github.com/beherca/IndoorNavDemo/blob/master/IndoorNav.ipa?raw=true</string>
                     </dict>
 
                     <!-- display-image: the icon to display during download. -->
@@ -34,7 +34,7 @@
                         <true/>
 
                         <key>url</key>
-                        <string>http://www.example.com/image.57×57.png</string>
+                        <string>https://raw.githubusercontent.com/beherca/IndoorNavDemo/master/logoicon57_57.png</string>
                     </dict>
 
                     <!-- full-size-image: the large 512×512 icon used by iTunes. -->
@@ -47,7 +47,7 @@
                         <true/>
 
                         <key>url</key>
-                        <string>http://www.example.com/image.512×512.jpg</string>
+                        <string>https://raw.githubusercontent.com/beherca/IndoorNavDemo/master/logoicon512_512.jpg</string>
                     </dict>
                 </array>
 
